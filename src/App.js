@@ -8,10 +8,10 @@ import FooterSection from './components/footer/Footer'
 
 import './App.css'
 
-const location = {
-  address: "TWEMMAN",
-  lat: 36.411624764857166,
-  lng: 10.139969199828704,
+const location = {, 
+  address: "26 AV HEDI CHEKER ZAGOUAN, TUNISIE",
+  lat: 36.39662750710054,
+  lng: 10.143173037662354,  
 };
 
 function App() {
