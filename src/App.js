@@ -10,8 +10,8 @@ import './App.css'
 
 const location = {
   address: "TWEMMAN",
-  lat: 36.411624764857166,
-  lng: 10.139969199828704,
+  lat: 36.39660159925174,
+  lng: 10.143269597180584,
 };
 
 function App() {
